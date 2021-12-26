@@ -4,6 +4,7 @@
 Using imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling to predict credit risk. 
 
 ## Results
+
 •	Oversample the data using the RandomOverSampler and SMOTE algorithms.
 
 ![plot](images/naïve_random_oversampling.png)
@@ -27,7 +28,7 @@ Using imbalanced-learn and scikit-learn libraries to build and evaluate models u
 
 
 
-##Summary
+## Summary
 Analysis shows that majority of the models have low balanced accuracy score. 
 Easy Ensemble AdaBoost model shows better accuracy. Also, the precision for the high-risk profile is low, thus they have issue to detect risk. Therefore, financial institutions may combine these models with other analysis. 
 
