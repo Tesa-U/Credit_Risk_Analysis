@@ -5,21 +5,21 @@ Using imbalanced-learn and scikit-learn libraries to build and evaluate models u
 
 ## Results
 
-•	Oversample the data using the RandomOverSampler and SMOTE algorithms.
+### •	Oversampling the data using the RandomOverSampler and SMOTE algorithms.
 
-![plot](images/naïve_random_oversampling.png)
+![plot](images/naive_random_oversampling.png)
 
 ![plot](images/smote_oversampling.png)
 
-•	Undersampling the data using the ClusterCentroids algorithm. 
+### •	Undersampling the data using the ClusterCentroids algorithm. 
 
 ![plot](images/undersampling.png)
 
-•	Combinatorial approach of over- and undersampling using the SMOTEENN algorithm
+### •	Combinatorial approach of over- and undersampling using the SMOTEENN algorithm
 
 ![plot](images/combination.png)
 
-•	Compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier
+### •	Compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier
 
 ![plot](images/balanced.png)
 
