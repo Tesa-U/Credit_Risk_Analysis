@@ -9,6 +9,7 @@ Using imbalanced-learn and scikit-learn libraries to build and evaluate models u
 
 ![plot](images/naive_random_oversampling.png)
 
+### * Smote algorithm.
 ![plot](images/smote_oversampling.png)
 
 ### •	Undersampling the data using the ClusterCentroids algorithm. 
