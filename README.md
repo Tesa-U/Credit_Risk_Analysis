@@ -22,9 +22,9 @@ Using imbalanced-learn and scikit-learn libraries to build and evaluate models u
 
 ### •	Compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier
 
-![plot](images/balanced.png)
+![plot](images/balanced_random_forest_classifier.png)
 
-![plot](images/adaboost.png)
+![plot](images/ensemble_adaboost_classifier.png)
 
 
 
